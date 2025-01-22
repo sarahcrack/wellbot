@@ -1,0 +1,19 @@
+{
+  "name": "wellbot",
+  "version": "1.0.0",
+  "description": "a little wellbot for our colleagues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahcrack/wellbot.git"
+  },
+  "author": "Emma, Dan and Sarah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahcrack/wellbot/issues"
+  },
+  "homepage": "https://github.com/sarahcrack/wellbot#readme"
+}
