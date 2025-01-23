@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/sarahcrack/wellbot/issues"
   },
-  "homepage": "https://github.com/sarahcrack/wellbot#readme"
+  "homepage": "https://github.com/sarahcrack/wellbot#readme",
+  "dependencies": {
+    "@slack/bolt": "^4.2.0",
+    "dotenv": "^16.4.7",
+    "express": "^5.0.1"
+  }
 }
